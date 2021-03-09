@@ -1,5 +1,6 @@
 #TECHNOLOGIES
-![react-node-express-mongodb-mern-stack-example-architecture](https://user-images.githubusercontent.com/29667186/110526432-73fe9c00-811e-11eb-8fd5-c9199c41b6fb.png)
+![Building-a-RESTful-API-Using-Node JS-and-MongoDB-1024x768 (1)](https://user-images.githubusercontent.com/29667186/110526528-9395c480-811e-11eb-89f1-a46190168100.png)
+
 
 
 # JWT-Authentication
