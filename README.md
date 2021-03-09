@@ -6,7 +6,9 @@
 # JWT-Authentication
 Nodejs JWT RestAPIs
 
-We have created an authentication method using a JWT. JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. 
+We have created an authentication method using a JWT.
+The JSON Web Token (JWT) standard is a popular, battle-tested method for secure data exchange between APIs and clients.
+JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object. 
 This information can be verified and trusted because it is digitally signed.
 JWTs can be signed using a secret (with the HMAC algorithm) or a public/private key pair using RSA or ECDSA.
 
