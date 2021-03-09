@@ -1,4 +1,4 @@
-#TECHNOLOGIES
+# TECHNOLOGIES
 ![Building-a-RESTful-API-Using-Node JS-and-MongoDB-1024x768 (1)](https://user-images.githubusercontent.com/29667186/110526528-9395c480-811e-11eb-89f1-a46190168100.png)
 
 
@@ -14,7 +14,7 @@ JWTs can be signed using a secret (with the HMAC algorithm) or a public/private 
 
 We will use mongodb as our database, mongoose to create models and to connect to our express server, bcryptjs to hash passwords and jwt to check for private routes.
 
-#TO GET STARTED
+# TO GET STARTED
 1. Navigate to the root of the project and install node modules,
 by running --> npm install
 2. Then start server with --> npm start
